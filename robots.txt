@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-55by32.abrahmamusic.net/sitemap.xml
